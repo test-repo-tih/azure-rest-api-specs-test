@@ -1,0 +1,7 @@
+{
+  "sdkRepositoryMappings": {
+    "azure-sdk-for-go": {
+      "mainRepository": "azure-sdk-for-go-test"
+    }
+  }
+}
